@@ -1,0 +1,22 @@
+{
+  "achievements": [
+    {
+      "name": "first pokemon",
+      "message": "NEW Achievement \nfirst pokemon you got!",
+      "what": "get first pokemon by using command /go",
+      "get": true
+    },
+    {
+      "name": "get Charizard",
+      "message": "NEW Achievement \nyou got Charizzard",
+      "what": "get charizard by using command /go",
+      "get": true
+    },
+    {
+      "name": "get Pikachu",
+      "message": "NEW Achievement \nyou got Pikachu",
+      "what": "get charizard by using command /go",
+      "get": false
+    }
+  ]
+}
